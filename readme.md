@@ -1,0 +1,1 @@
+PROBLEMA: Ci viene chiesto di creare e stampare in console una frase contenente N parole (dove il valore di N è definito in una costante) sfruttando una API e che genera parole casuali.
